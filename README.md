@@ -37,15 +37,13 @@
   <!-- stats GitHub
 --> 
  <h1></h1>
-
-
 <table align='left'>
   <row>
     <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=monhardy&layout=compact&theme=kacho_ga'>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=monhardy&show_icons=true&theme=kacho_ga'>
     </td>
     <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=monhardy&show_icons=true&theme=kacho_ga'>
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=monhardy&layout=compact&theme=kacho_ga'>
     </td>
   </row>
 </table>
