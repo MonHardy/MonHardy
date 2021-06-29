@@ -38,13 +38,16 @@
   <!-- stats GitHub
 --> 
  <h1></h1>
-<table align='left'>
+
+<!-- Queria deixar esses dois, um do lado do outro, e encontrei essa solução em um perfil. Estou adicionando ele aos meus comentários para deixar os devidos créditos; https://github.com/Gelzieny/Gelzieny/blob/main/README.md -->
+ 
+<table align='center'>
   <row>
     <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=monhardy&show_icons=true&theme=kacho_ga'>
+      <img height='150' width='400' src='https://github-readme-stats.vercel.app/api?username=monhardy&show_icons=true&theme=kacho_ga'>
     </td>
     <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=monhardy&layout=compact&theme=kacho_ga'>
+      <img height='170' width='400' src='https://github-readme-stats.vercel.app/api/top-langs/?username=monhardy&layout=compact&theme=kacho_ga'>
     </td>
   </row>
 </table>
