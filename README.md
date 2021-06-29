@@ -17,6 +17,9 @@
 
 <div align="left"> <img alt="loca" src="https://img-premium.flaticon.com/png/512/186/premium/186250.png?token=exp=1624921744~hmac=b746a1b30dac9d6df27e6c2764bbb424" width="15"/>  Minas Gerais, Brazil</div><p>
 <div align="justify">Welcome, dear passenger! This is the profile of an eternal student who decided to start her journey in the programming area and, since then, has become more and more passionate about it. <em>Book lover </em> -- this is a person who also loves drawing and dedicates a good part of her time to Pixel Art. 
+<p><p>
+I've been reading a lot of programming books since I started this learning process and I intend to create some contents about some books I read during my evolution to help people who -- <em>like me</em> -- felt lost in the beginning.
+
 <p><p>Feel free to follow my growth in the area!</div>
 
 <div align="left"> <img alt="Book" src="https://image.flaticon.com/icons/png/512/3627/3627782.png" width="30"/> <strong>Learning</strong> Python, Kotlin, HTML and CSS</div>
