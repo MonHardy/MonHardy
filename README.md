@@ -42,7 +42,7 @@ I've been reading a lot of programming books since I started this learning proce
 --> 
  <h1></h1>
 
-<!-- Queria deixar esses dois, um do lado do outro, e encontrei essa solução em um perfil. Estou adicionando ele aos meus comentários para deixar os devidos créditos; https://github.com/Gelzieny/Gelzieny/blob/main/README.md -->
+<!-- Queria deixar esses dois um do lado do outro e encontrei essa solução em um perfil. Estou adicionando ele aos meus comentários para deixar os devidos créditos; https://github.com/Gelzieny/Gelzieny/blob/main/README.md -->
  
 <table align='center'>
   <row>
