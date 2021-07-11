@@ -15,7 +15,7 @@
 <!-- About me // Icons by Flaticon https://www.flaticon.com/br/
 -->
 
-<div align="left"> <img alt="loca" src="https://img-premium.flaticon.com/png/512/186/premium/186250.png?token=exp=1624921744~hmac=b746a1b30dac9d6df27e6c2764bbb424" width="15"/>  Minas Gerais, Brazil</div><p>
+<div align="left"> <img alt="loca" src="https://image.flaticon.com/icons/png/512/1041/1041897.png" width="20"/>  Minas Gerais, Brazil</div><p>
 <div align="justify">Welcome, dear passenger! This is the profile of an eternal student who decided to start her journey in the programming area and, since then, has become more and more passionate about it. <em>Book lover </em> -- this is a person who also loves drawing and dedicates a good part of her time to Pixel Art. 
 <p><p>
 I've been reading a lot of programming books since I started this learning process and I intend to create some contents about some books I read during my evolution to help people who -- <em>like me</em> -- felt lost in the beginning.
@@ -24,7 +24,7 @@ I've been reading a lot of programming books since I started this learning proce
 
 <div align="left"> <img alt="Book" src="https://image.flaticon.com/icons/png/512/3627/3627782.png" width="30"/> <strong>Learning</strong> Python, Kotlin, HTML and CSS</div>
 <div align="left"> <img alt="fav" src="https://image.flaticon.com/icons/png/512/1040/1040230.png" width="25"/> <strong>Favourite Book</strong> <a href="https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o-com-Python-Algoritmos/dp/8575227181/ref=asc_df_8575227181/?tag=googleshopp00-20&linkCode=df0&hvadid=379748659420&hvpos=&hvnetw=g&hvrand=18425391344779090891&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001650&hvtargid=pla-811137648888&psc=1" target="_blank">Introduction to Python programming</a>
-<div align="left"> <img alt="prog" src="https://img-premium.flaticon.com/png/512/1442/premium/1442581.png?token=exp=1624907301~hmac=234328ea21b3a01fe64327b3e886f882" width="20"/> <strong>Favourite Language</strong> <a href="https://developer.android.com/kotlin?hl=pt&gclid=Cj0KCQjw5uWGBhCTARIsAL70sLIj-_j4GBFoQ12ywgEFzVaHgXoZMCxyYGccK9Xoqg_IOGX90He0nqoaAuFDEALw_wcB&gclsrc=aw.ds" target="_blank">Kotlin</a>
+<div align="left"> <img alt="prog" src="https://image.flaticon.com/icons/png/512/174/174836.png" width="20"/> <strong>Favourite Language</strong> <a href="https://developer.android.com/kotlin?hl=pt&gclid=Cj0KCQjw5uWGBhCTARIsAL70sLIj-_j4GBFoQ12ywgEFzVaHgXoZMCxyYGccK9Xoqg_IOGX90He0nqoaAuFDEALw_wcB&gclsrc=aw.ds" target="_blank">Kotlin</a>
 <div align="left"> <img alt="Graduations" src="https://image.flaticon.com/icons/png/512/2620/2620135.png" width="30"/> <strong>Graduations</strong> Graduate in Law l Student of Software Engineering</div>    
 <p>
     
