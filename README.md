@@ -23,7 +23,7 @@ I've been reading a lot of programming books since I started this learning proce
 
 <p><p>Feel free to follow my growth in the area!</div>
 
-██████████████████████████████████████
+████████████████████████████████████
 <div align="left"> <h6>LEARNING</h6> 
 ◤ Python, Kotlin, HTML and CSS</div>
 
