@@ -16,7 +16,8 @@
 -->
 
 <div align="left"> <img alt="loca" src="https://image.flaticon.com/icons/png/512/1041/1041897.png" width="20"/>  Minas Gerais, Brazil</div><p>
-<div align="justify">Welcome, dear passenger! This is the profile of an eternal student who decided to start her journey in the programming area and, since then, has become more and more passionate about it. <em>Book lover </em> -- this is a person who also loves drawing and dedicates a good part of her time to Pixel Art. 
+<div align="justify">Hi!
+My name is Monique but you can call me Mon or Nick. I'm currently studying ADS and I'm a pixel artist in my spare time. I hope you like my work and follow me on Instagram too! <em>Book lover </em> -- this is a person who also loves drawing and dedicates a good part of her time to Pixel Art. 
 <p><p>
 I've been reading a lot of programming books since I started this learning process and I intend to create some contents about some books I read during my evolution to help people who -- <em>like me</em> -- felt lost in the beginning.
 
