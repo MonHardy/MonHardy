@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=MonHardy&color=red)
 
-<div align="center"><h1><img alt="logo" src="https://user-images.githubusercontent.com/85580881/123730367-9d2d6e80-d86c-11eb-99e9-134f87ec4419.png"/> </h1></div>
+<div align="center"><h1><img alt="logo" src="https://user-images.githubusercontent.com/85580881/127918025-db25b145-baea-4081-974f-da61eb233a38.gif"/> </h1></div>
 <!-- Head
 -->
 
