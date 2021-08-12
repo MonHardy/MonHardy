@@ -24,23 +24,7 @@ I've been reading a lot of programming books since I started this learning proce
 <p><p>Feel free to follow my growth in the area!</div>
 
 ██████████████████████████████████████████
-<div align="left"> <h6>LEARNING</h6> 
-◤ Python, Kotlin, HTML and CSS</div>
-
-<div align="left"> <h6>FAVOURITE BOOK</h6> 
-◤ <a href="https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o-com-Python-Algoritmos/dp/8575227181/ref=asc_df_8575227181/?tag=googleshopp00-20&linkCode=df0&hvadid=379748659420&hvpos=&hvnetw=g&hvrand=18425391344779090891&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001650&hvtargid=pla-811137648888&psc=1" target="_blank">Introduction to Python programming</a>
- 
-<div align="left"> <h6>FAVOURITE LANGUAGE</h6>
-<img alt="prog" src="https://image.flaticon.com/icons/png/512/174/174836.png" width="20"/> <a href="https://developer.android.com/kotlin?hl=pt&gclid=Cj0KCQjw5uWGBhCTARIsAL70sLIj-_j4GBFoQ12ywgEFzVaHgXoZMCxyYGccK9Xoqg_IOGX90He0nqoaAuFDEALw_wcB&gclsrc=aw.ds" target="_blank">Kotlin</a>
- 
-<div align="left"> <h6>GRADUATIONS</h6> 
-◤ Law (100%) l ADS (0%)</div>    
-<p>
-    
-<!-- page break
---> 
-  
-ㅤㅤ<img alt="Book" src="https://i.pinimg.com/originals/65/ba/48/65ba488626025cff82f091336fbf94bb.gif" width="100"/>ㅤ<img alt="Book" src="https://i.pinimg.com/originals/65/ba/48/65ba488626025cff82f091336fbf94bb.gif" width="100"/>ㅤ<img alt="Book" src="https://i.pinimg.com/originals/65/ba/48/65ba488626025cff82f091336fbf94bb.gif" width="100"/>ㅤ
+ㅤ
    
   <!-- social
 --> 
