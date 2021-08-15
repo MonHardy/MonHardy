@@ -7,10 +7,10 @@
 <h6><div align="center">“<em>The more I study, the more insatiable do I feel my genius for it to be.</em>” — Ada Lovelace</div></h6>
 <div align="center"> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>	<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> </div>
  
-<!-- Octocat
+<!-- BADGES
 -->    
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1624901515905.png" width="400px" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/85580881/129483474-d82932d3-4ae9-43e1-89e3-a7175af3cc56.gif" width="400px" />
 
 <!-- About me // Icons by Flaticon https://www.flaticon.com/br/
 -->
