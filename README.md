@@ -15,7 +15,7 @@
 <!-- About me // Icons by Flaticon https://www.flaticon.com/br/
 -->
 
-<div align="left"> <img alt="loca" src="https://image.flaticon.com/icons/png/512/1041/1041897.png" width="20"/>  Minas Gerais, Brazil</div><p>
+◤  Minas Gerais, Brazil</div><p>
 <div align="justify">Hi!
 My name is Monique but you can call me Mon or Nick. I'm currently studying ADS and I'm a pixel artist in my spare time. I hope you like my work and follow me on Instagram too! <em>Book lover </em> -- this is a person who also loves drawing and dedicates a good part of her time to Pixel Art. 
 <p><p>
