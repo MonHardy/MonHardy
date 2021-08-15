@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=MonHardy&color=red)
 
-<div align="center"><h1><img alt="logo" src="https://user-images.githubusercontent.com/85580881/127918025-db25b145-baea-4081-974f-da61eb233a38.gif"/> </h1></div>
+<a href="https://github.com/MonHardy/" target="_blank"><div align="center"><h1><img alt="logo" src="https://user-images.githubusercontent.com/85580881/127918025-db25b145-baea-4081-974f-da61eb233a38.gif"/> </h1></div></a>
 <!-- Head
 -->
 
@@ -10,7 +10,7 @@
 <!-- BADGES
 -->    
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/85580881/129483474-d82932d3-4ae9-43e1-89e3-a7175af3cc56.gif" width="400px" />
+<a href="https://github.com/MonHardy/" target="_blank"><img align="right" alt="GIF" src="https://user-images.githubusercontent.com/85580881/129483474-d82932d3-4ae9-43e1-89e3-a7175af3cc56.gif" width="400px" /></a>
 
 <!-- About me // Icons by Flaticon https://www.flaticon.com/br/
 -->
