@@ -17,7 +17,7 @@
 
 ◤  Minas Gerais, Brazil</div><p>
 <div align="justify">Hi!
-You can call me Mon or Nick. I'm currently studying ADS and I'm a pixel artist in my spare time. I hope you like my work and follow me on Instagram too! <em>Book lover </em> -- this is a person who also loves drawing and dedicates a good part of her time to Pixel Art. 
+I'm currently studying ADS and I'm a pixel artist in my spare time. I hope you like my work and follow me on Instagram too! <em>Book lover </em> -- this is a person who also loves drawing and dedicates a good part of her time to Pixel Art. 
 <p><p>
 I've been reading a lot of programming books since I started this learning process and I intend to create some contents about some books I read during my evolution to help people who -- <em>like me</em> -- felt lost in the beginning.
 
