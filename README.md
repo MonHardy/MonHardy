@@ -4,8 +4,8 @@
 <!-- Head
 -->
 
-<h6><div align="center">“<em>The more I study, the more insatiable do I feel my genius for it to be.</em>” — Ada Lovelace</div></h6>
-<div align="center"> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>	<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> </div>
+
+<div align="center"> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>	<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> </div>
  
 <!-- BADGES
 -->    
@@ -15,21 +15,33 @@
 <!-- About me // Icons by Flaticon https://www.flaticon.com/br/
 -->
 
-◤  Minas Gerais, Brazil</div><p>
-<div align="justify">Hi!
-I'm currently studying ADS and I'm a pixel artist in my spare time. I hope you like my work and follow me on Instagram too! <em>Book lover </em> -- this is a person who also loves drawing and dedicates a good part of her time to Pixel Art. 
+<h6>[PT/ENG] Minas Gerais, Brazil<br>
+Student : System Analysis and development l Pixel Artist</h6><p>
+<div align="justify">My name is Carla. I have a law degree and am currently a graduate student in Systems Analysis and Development.
 <p><p>
-I've been reading a lot of programming books since I started this learning process and I intend to create some contents about some books I read during my evolution to help people who -- <em>like me</em> -- felt lost in the beginning.
-
-<p><p>Feel free to follow my growth in the area!</div>
-
-██████████████████████████████████████████
-ㅤ
+<p align="left">
+ <h6>Programming Languages</h6>
+ 
+Programming Languages | Nível
+:--------- | :------: |
+Python | Básico |
+JavaScript | Em andamento | 
+HTML e CSS | Intermediário |  
+ 
+<h6>IDEs</h6>
    
+IDEs | Uso
+:--------- | :------: |
+Visual Studio Code | 80% |
+Atom | 10% |
+SublimeText | 8% |
+IntelliJ | 2% |  
+</p>
+
   <!-- social
 --> 
   
-ㅤㅤ<a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="https://github.com/MonHardy" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a><a href="https://ko-fi.com/monhardy#paypalModal"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+
 
   <!-- stats GitHub
 --> 
