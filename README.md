@@ -24,9 +24,9 @@ Student : System Analysis and development l Pixel Artist</h6><p>
  
 Programming Languages | Level
 :--------- | :------: |
-Python | Básico |
-JavaScript | Em andamento | 
-HTML e CSS | Intermediário |  
+Python | Basic |
+JavaScript | In progress | 
+HTML e CSS | Intermediary |  
  
 <h6>IDEs</h6>
    
