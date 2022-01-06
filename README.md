@@ -22,7 +22,7 @@ Student : System Analysis and development l Pixel Artist</h6><p>
 <p align="left">
  <h6>Programming Languages</h6>
  
-Programming Languages | Nível
+Programming Languages | Level
 :--------- | :------: |
 Python | Básico |
 JavaScript | Em andamento | 
@@ -30,7 +30,7 @@ HTML e CSS | Intermediário |
  
 <h6>IDEs</h6>
    
-IDEs | Uso
+IDEs | Use
 :--------- | :------: |
 Visual Studio Code | 80% |
 Atom | 10% |
