@@ -25,6 +25,7 @@ Student : System Analysis and development l Pixel Artist</h6><p>
 Programming Languages | Level
 :--------- | :------: |
 Python | Basic |
+Java | In progress | 
 JavaScript | In progress | 
 HTML e CSS | Intermediary |  
  
@@ -32,10 +33,9 @@ HTML e CSS | Intermediary |
    
 IDEs | Use
 :--------- | :------: |
-Visual Studio Code | 80% |
-Atom | 10% |
-SublimeText | 8% |
-IntelliJ | 2% |  
+Visual Studio Code | 30% |
+NetBeans | 60% |
+SublimeText | 10% |
 </p>
 
   <!-- social
