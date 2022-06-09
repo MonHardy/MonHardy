@@ -25,7 +25,7 @@ Student : System Analysis and development l Pixel Artist</h6><p>
 Programming Languages | Level
 :--------- | :------: |
 Python | Basic |
-Java | In progress | 
+Java | Intermediary | 
 JavaScript | In progress | 
 HTML e CSS | Intermediary |  
  
