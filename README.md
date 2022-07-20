@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=MonHardy&color=red)
 
-<a href="https://github.com/MonHardy/" target="_blank"><div align="center"><h1><img alt="logo" src="https://user-images.githubusercontent.com/85580881/127918025-db25b145-baea-4081-974f-da61eb233a38.gif"/> </h1></div></a>
+<a href="https://github.com/MonHardy/" target="_blank"><div align="center"><h1><img alt="logo" src="https://user-images.githubusercontent.com/85580881/180074988-edb2c39a-4004-498e-8610-03d62b6667e4.png" width="300px"/> </h1></div></a>
 <!-- Head
 -->
 
@@ -17,7 +17,7 @@
 
 <h6>[PT/ENG] Minas Gerais, Brazil<br>
 Student : System Analysis and development l Pixel Artist</h6><p>
-<div align="justify">My name is Carla. I have a law degree and am currently a graduate student in Systems Analysis and Development.<p>
+<div align="justify">My name is Carla. I have a law degree and am currently a graduate student in Systems Analysis and Development (2021 - 2023).<p>
 <p align="left">
 <a href="https://monhardy.github.io/"><h3>Site pessoal</h3></a>
  <h6>Programming Languages</h6>
@@ -27,7 +27,8 @@ Programming Languages | Level
 Python | Basic |
 Java | Intermediary | 
 JavaScript | In progress | 
-HTML e CSS | Intermediary |  
+HTML e CSS | Intermediary | 
+MySQL/SQL | Basic | 
  
 <h6>IDEs</h6>
    
