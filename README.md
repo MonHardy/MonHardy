@@ -5,39 +5,42 @@
 -->
 
 
-<div align="center"> <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whit"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>	<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Boot" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> </div>
+<div align="center"> <a href="https://tryhackme.com/p/ccyber"><img align="right" alt="GIF" src="https://user-images.githubusercontent.com/85580881/227341362-66ba38df-f895-4dae-948d-56a36e4530eb.png" width="30px" /></a></a>
+<a href="https://dev.to/ccyber"><img align="right" alt="GIF" src="https://user-images.githubusercontent.com/85580881/227341948-2c34f3fd-cbb2-453a-95da-216cfb4e46b1.png" width="30px" /></a></a>
+<a href="https://www.linkedin.com/in/ccyber/"><img align="right" alt="GIF" src="https://user-images.githubusercontent.com/85580881/227341960-2aaa28ef-6a37-48df-84f2-e4347c58de21.png" width="30px" /></a></a> </div>
  
 <!-- BADGES
 -->    
 
-<a href="https://github.com/MonHardy/" target="_blank"><img align="right" alt="GIF" src="https://user-images.githubusercontent.com/85580881/129483474-d82932d3-4ae9-43e1-89e3-a7175af3cc56.gif" width="400px" /></a>
+
 
 <!-- About me // Icons by Flaticon https://www.flaticon.com/br/
 -->
 
 <h6>[PT/ENG] Minas Gerais, Brazil<br>
-Student : System Analysis and development l Pixel Artist</h6><p>
-<div align="justify">My name is Carla. I have a law degree and am currently a graduate student in Systems Analysis and Development (2021 - 2023).<p>
+Student : CYBERSECURITY I PSI I NETWORKS I LINUX</h6><p>
+<div align="justify">My name is Carla. I'm a student of Analysis and Systems Development with a degree in Law. Currently, I am seeking an opportunity in the Information Security field and have been dedicated to taking courses on the subject. I have previously worked as a legal intern and am currently interning in the Technology field while also conducting scientific research at the University Center of Belo Horizonte.<p>
 <p align="left">
 
- <h6>Programming Languages</h6>
+ <h6>Skills</h6>
  
-Programming Languages | Level
+Knowledge | Level
 :--------- | :------: |
 Python | Basic |
-Java | Intermediary | 
+Cybersecurity | Intermediary | 
 JavaScript | In progress | 
-HTML e CSS | Intermediary | 
-MySQL/SQL | Basic | 
- 
-<h6>IDEs</h6>
-   
-IDEs | Use
+PSI | Intermediary | 
+MySQL/SQL | Basic |
+Networks | In progress |
+Linux | In progress |
+Flutter | Basic |
+
+Colleges | %
 :--------- | :------: |
-Visual Studio Code | 30% |
-NetBeans | 60% |
-SublimeText | 10% |
-</p>
+Law | 100% |
+ADS | 90% | 
+Computer Science | 50% | 
+
 
   <!-- social
 --> 
