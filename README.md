@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=MonHardy&color=red)
 
-<a href="https://github.com/MonHardy/" target="_blank"><div align="center"><h1><img alt="logo" src="https://user-images.githubusercontent.com/85580881/180074988-edb2c39a-4004-498e-8610-03d62b6667e4.png" width="300px"/> </h1></div></a>
+<a href="https://github.com/MonHardy/" target="_blank"><div align="center"><h1><img alt="logo" src="https://user-images.githubusercontent.com/85580881/180074988-edb2c39a-4004-498e-8610-03d62b6667e4.png" width="300px"/> 
 <!-- Head
 -->
 
@@ -20,7 +20,7 @@
 <h6>[PT/ENG] Minas Gerais, Brazil<br>
 Student : CYBERSECURITY I PSI I NETWORKS I LINUX</h6><p>
 <div align="justify">My name is Carla. I'm a student of Analysis and Systems Development with a degree in Law. Currently, I am seeking an opportunity in Cybersecurity field and have been dedicated to taking courses on the subject. I have previously worked as a legal intern and am currently interning in the Technology field while also conducting scientific research at the University Center of Belo Horizonte.<p>
-<p align="left">
+<p align="left"><img src="https://tryhackme-badges.s3.amazonaws.com/ccyber.png" alt="TryHackMe">
 
 
   <!-- social
