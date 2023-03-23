@@ -22,19 +22,6 @@ Student : CYBERSECURITY I PSI I NETWORKS I LINUX</h6><p>
 <div align="justify">My name is Carla. I'm a student of Analysis and Systems Development with a degree in Law. Currently, I am seeking an opportunity in Cybersecurity field and have been dedicated to taking courses on the subject. I have previously worked as a legal intern and am currently interning in the Technology field while also conducting scientific research at the University Center of Belo Horizonte.<p>
 <p align="left">
 
- <h6>Skills</h6>
- 
-Knowledge | Level
-:--------- | :------: |
-Python | Basic |
-Cybersecurity | Intermediary | 
-JavaScript | In progress | 
-PSI | Intermediary | 
-MySQL/SQL | Basic |
-Networks | In progress |
-Linux | In progress |
-Flutter | Basic |
-
 
   <!-- social
 --> 
