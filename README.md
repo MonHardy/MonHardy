@@ -35,12 +35,6 @@ Networks | In progress |
 Linux | In progress |
 Flutter | Basic |
 
-Colleges | %
-:--------- | :------: |
-Law | 100% |
-ADS | 90% | 
-Computer Science | 50% | 
-
 
   <!-- social
 --> 
