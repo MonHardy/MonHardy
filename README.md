@@ -19,7 +19,7 @@
 
 <h6>[PT/ENG] Minas Gerais, Brazil<br>
 Student : CYBERSECURITY I PSI I NETWORKS I LINUX</h6><p>
-<div align="justify">My name is Carla. I'm a student of Analysis and Systems Development with a degree in Law. Currently, I am seeking an opportunity in Cybersecurity field and have been dedicated to taking courses on the subject. I have previously worked as a legal intern and am currently interning in the Technology field while also conducting scientific research at the University Center of Belo Horizonte.</div>
+<div align="justify">My name is Carla. I am seeking an opportunity in Cybersecurity field and have been dedicated to taking courses on the subject. I have previously worked as a legal intern and am currently interning in the Technology field while also conducting scientific research at the University Center of Belo Horizonte.</div>
 <hr>
 <h6>Badges</h6>
  <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="oython" width="120px"> <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="cybersecurity" width="120px"></div>
