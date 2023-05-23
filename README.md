@@ -24,7 +24,7 @@ Student : CYBERSECURITY | LINUX | SWIFT | FLUTTER</h6><p>
  <div align="justify"><b>Curiosities</b><br>
  • Bookworm<br>
  • I'm passionate about online games<br>
- • Team cat<br>
+ • Cats<br>
  • Bazinga!<br>
  • I Love u 3000
   
