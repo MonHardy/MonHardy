@@ -22,7 +22,7 @@
 <div align="left" width="400px"><img align="right" alt="quote" src="https://github.com/CCyber-iOS/tellmeabout/assets/85580881/2be155d4-8f7d-4607-99ec-30a8cb7e11d6" width="400px"/>
 
 This is a person who loves books with the same intensity as they love technology.
-<br>Computer Science student, cat lover, and Information Security enthusiast.
+Computer Science student, cat lover, and Information Security enthusiast.
 <br><br>Feel free to follow my work! <3
 
  </div>
