@@ -19,7 +19,7 @@
 
 </div><h6></h6>
 
-<div align="left" width="400px"><img align="right" alt="quote" src="https://github.com/CCyber-iOS/tellmeabout/assets/85580881/2be155d4-8f7d-4607-99ec-30a8cb7e11d6" width="400px"/>
+<div align="left" width="400px"><img align="right" alt="quote" src="https://github.com/MonHardy/MonHardy/assets/85580881/c8888cb5-899f-4da7-952e-a3fa93f5ca26" width="400px"/>
 
 This is a person who loves books with the same intensity as they love technology.
 Computer Science student, cat lover, and Information Security enthusiast.
