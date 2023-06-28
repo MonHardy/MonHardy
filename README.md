@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=MonHardy&color=red)
 
-<a href="https://github.com/MonHardy/" target="_blank"><div align="center"><h1><img alt="logo" src="https://user-images.githubusercontent.com/85580881/180074988-edb2c39a-4004-498e-8610-03d62b6667e4.png" width="300px"/> 
+<a href="https://github.com/MonHardy/" target="_blank"><div align="center"><h1><img alt="logo" src="https://github.com/CCyber-iOS/tellmeabout/assets/85580881/8ba9c8de-f654-48ac-a112-dd347a645f92"/> 
 <!-- Head
 -->
 
@@ -17,23 +17,20 @@
 <!-- About me // Icons by Flaticon https://www.flaticon.com/br/
 -->
 
-<h6>[PT/ENG] Minas Gerais, Brazil<br>
-Student : CYBERSECURITY | LINUX | SWIFT | FLUTTER</h6><p>
-<div align="justify">I'm an IT student, passionate about information security and mobile development who spends her free time playing games.
- <hr>
- <div align="justify"><b>Curiosities</b><br>
- • Bookworm<br>
- • I'm passionate about online games<br>
- • Cats<br>
- • Bazinga!<br>
- • I Love u 3000
-  
+</div><h6></h6>
+
+<div align="left" width="400px"><img align="right" alt="quote" src="https://github.com/CCyber-iOS/tellmeabout/assets/85580881/2be155d4-8f7d-4607-99ec-30a8cb7e11d6" width="400px"/>
+
+This is a person who loves books with the same intensity as they love technology.
+<br>Computer Science student, cat lover, and Information Security enthusiast.
+<br><br>Feel free to follow my work! <3
+
  </div>
 
 
 <hr>
 <h6>Badges</h6>
- <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="oython" width="120px"> <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="cybersecurity" width="120px"></div>
+<div align="center"> <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="oython" width="120px"> <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="cybersecurity" width="120px"> <img src="https://github.com/MonHardy/MonHardy/assets/85580881/c9839cc2-879f-4b1c-b819-afd425675e05" alt="tti" width="120px"> <img src="https://github.com/MonHardy/MonHardy/assets/85580881/437d318a-652c-4812-b898-bb62fd00b72a" alt="tti" width="120px"></div>
 
   <!-- social
 --> 
